@@ -7,7 +7,7 @@
     <ProjectGuid>{C0167EA9-19C9-48D0-9551-6BA8E9FE3F6E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Myitian.CubePuzzleSolver</RootNamespace>
-    <AssemblyName>机关立方解谜</AssemblyName>
+    <AssemblyName>CubePuzzleSolver</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -30,7 +30,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <DocumentationFile>bin\Release\机关立方解谜.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\CubePuzzleSolver.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup>
     <StartupObject />
